@@ -27,14 +27,6 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=radical)
-
----
-
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeabsra-mesfin-md-8a1149340/)
