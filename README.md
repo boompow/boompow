@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: [Front-end and Full-stack Web Apps]
+- 🔭 I’m currently working on: Front-end and Full-stack Web Apps
 - 🌱 I’m currently learning: [Next.js](https://nextjs.org/)
 - 💬 Ask me about: Web Dev, Open Source, or anything tech!
 - 📫 How to reach me: [Telegram](https://t.me/uncagedspirit)
