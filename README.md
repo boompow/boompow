@@ -10,8 +10,7 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 - 🌱 I’m currently learning: [Next.js](https://nextjs.org/)
 - 💬 Ask me about: Web Dev, Open Source, or anything tech!
 - 📫 How to reach me: [Telegram](https://t.me/uncagedspirit)
-- ⚡ Fun fact: I actually graduated as Doctor of Medicine, not CS major!
-
+- ⚡ Fun fact: self-taught developer who graduated recently as Doctor of Medicine
 ---
 
 ### 🛠️ Technologies & Tools
