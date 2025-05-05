@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 
 ### Old Pet Projects
 - 🧮 [Numeric to word and vice versa converter](https://github.com/boompow/number_to_word_converter/blob/main/number_to_letter.exe) (in Amharic and English)
-- 🤖 [Zuriash Buna Bot] (https://t.me/zuriashbunabot) Telegram bot to serve coffees in group conversations
+- 🤖 [Zuriash Buna Bot](https://t.me/zuriashbunabot) Telegram bot to serve coffees in group conversations
 - ⏲️ [Countlifetime](https://countlifetime.vercel.app/) a web app to count birthdays down to the second live based on the entered date and time and to remined users when their birthday arrives
 
 ---
