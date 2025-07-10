@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
+### Latest Project
+-📝 [Blog Demo](https://blogdemo-three.vercel.app/) a Full-stack MERN project to read and publish blogs like **Medium**
 
 
 ### Old Pet Projects
