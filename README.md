@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 
 ---
 ### Latest Project
--📝 [Blog Demo](https://blogdemo-three.vercel.app/) a Full-stack MERN project to read and publish blogs like **Medium**
+-📝 [Blog Demo](https://blogdemo-three.vercel.app/) a multi-user Full-stack MERN project to read and publish blogs like **Medium**
 
 
 ### Old Pet Projects
