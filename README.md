@@ -38,6 +38,10 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 - ⏲️ [Countlifetime](https://countlifetime.vercel.app/) a web app to count birthdays down to the second live based on the entered date and time and to remined users when their birthday arrives
 
 ---
+![Boom Pow's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+---
 
 ### 🌐 Let's Connect
 
