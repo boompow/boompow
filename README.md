@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Boom!
+# 👋 Hi, I'm Yeabsra!
 
 Welcome to my GitHub profile! I'm passionate about using computing tools and theories to solve real-world problems and build cool stuff with code.
 
