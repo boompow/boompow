@@ -7,14 +7,17 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 ### 🚀 About Me
 
 - 🔭 I’m currently working on: Front-end and Full-stack Web Apps
-- 🌱 I’m currently learning: [Next.js](https://nextjs.org/)
-- 💬 Ask me about: Web Dev, Open Source, or anything tech!
+- 🌱 I’m currently learning: AI
+- 💬 Ask me about: Web Dev
 - 📫 How to reach me: [Telegram](https://t.me/uncagedspirit)
-- ⚡ Fun fact: self-taught developer who graduated recently as Doctor of Medicine
+- ⚡ Fun fact: self-taught developer and Doctor of Medicine
 ---
 
 ### 🛠️ Technologies & Tools
 
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
