@@ -15,7 +15,17 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 
 ### 🛠️ Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,sanity,framer,html,css,tailwind,ts,js,py,react,nodejs,express,mongodb,php,laravel,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,ts,js,py,react,nodejs,express,mongodb,php,laravel,git,vscode)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,js,ts,py,react,nodejs,express,mongodb,php,laravel,git,vscode" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
 
 ---
 ### Latest Project
