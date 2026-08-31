@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Yeabsra!
 
-Welcome to my GitHub profile! I'm passionate about using computing tools and theories to solve real-world problems and build cool stuff with code.
-
+Welcome to my GitHub profile! I'm passionate about building immersive websites.
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on: Front-end and Full-stack Web Apps
-- 🌱 I’m currently learning: AI
-- 💬 Ask me about: Web Dev
+- 🔭 I’m currently working on: Creative Web Development
+- 🌱 I’m currently learning: Shaders
+- 💬 Ask me about: Next.js, Sanity CMS, Framer Motion
 - 📫 How to reach me: [Telegram](https://t.me/uncagedspirit)
 - ⚡ Fun fact: self-taught developer and Doctor of Medicine
 ---
@@ -22,16 +21,11 @@ Welcome to my GitHub profile! I'm passionate about using computing tools and the
 [![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,js,ts,py,react,nodejs,express,mongodb,php,laravel,git,vscode)](https://skillicons.dev)
 
 ---
-### Latest Project
--📝 [Blog Demo](https://blogdemo-three.vercel.app/) a multi-user Full-stack MERN project to read and publish blogs like **Medium**
+### Latest Works
+- [Horizon](https://horizon-imaging.vercel.app/)
+- [Monet](https://monet-gallery.vercel.app/)
+- [Flow](https://flow-real-estate-web.vercel.app/)
 
-
-### Old Pet Projects
-- 🧮 [Numeric to word and vice versa converter](https://github.com/boompow/number_to_word_converter/blob/main/number_to_letter.exe) (in Amharic and English)
-- 🤖 [Zuriash Buna Bot](https://t.me/zuriashbunabot) Telegram bot to serve coffees in group conversations
-- ⏲️ [Countlifetime](https://countlifetime.vercel.app/) a web app to count birthdays down to the second live based on the entered date and time and to remined users when their birthday arrives
-
----
 
 ### 🌐 Let's Connect
 
