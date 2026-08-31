@@ -16,9 +16,9 @@ Welcome to my GitHub profile!
 
 ### Technologies & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,js,ts,py,react,nodejs,express,mongodb,php,laravel,git,vscode)](https://skillicons.dev)
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,js,ts,py,react,nodejs,express,mongodb,php,laravel,git,vscode)](https://skillicons.dev)
 
 ---
 ### Latest Works
