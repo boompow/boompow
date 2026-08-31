@@ -1,23 +1,23 @@
 # 👋 Hi, I'm Yeabsra!
 
-Welcome to my GitHub profile! I'm passionate about building immersive websites.
+Welcome to my GitHub profile!
 ---
 
-### 🚀 About Me
+ I'm passionate about building immersive websites.
 
-- 🔭 I’m currently working on: Creative Web Development
-- 🌱 I’m currently learning: Shaders
-- 💬 Ask me about: Next.js, Sanity CMS, Framer Motion
-- 📫 How to reach me: [Telegram](https://t.me/uncagedspirit)
-- ⚡ Fun fact: self-taught developer and Doctor of Medicine
+### About Me
+
+-  I’m currently working on: Creative Web Development
+-  I’m currently learning: Shaders
+-  Ask me about: Next.js, Sanity CMS, Framer Motion
+-  How to reach me: [Telegram](https://t.me/uncagedspirit)
+-  Fun fact: self-taught developer and Doctor of Medicine
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
----
 [![My Skills](https://skillicons.dev/icons?i=nextjs,html,css,tailwind,js,ts,py,react,nodejs,express,mongodb,php,laravel,git,vscode)](https://skillicons.dev)
 
 ---
